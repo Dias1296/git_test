@@ -1,0 +1,1 @@
+[2021-02-27 23:14:00.485] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/git_test/User/snippets'
